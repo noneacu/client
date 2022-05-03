@@ -1,18 +1,7 @@
 {
-  "name": "client-master",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/noneacu/client.git"
-  },
-  "author": "Luca",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/noneacu/client/issues"
-  },
-  "homepage": "https://github.com/noneacu/client#readme",
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
